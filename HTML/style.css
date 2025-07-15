@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(308deg, rgba(238,238,238,1) 0%, rgba(144, 167, 176, 1) 100%);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.gov{
+    background-color: #72B0CF;
+}
+div{
+    width: 40rem ;
+    height: 10vh;
+}
+.virtual{
+    background-color: white;
+}
